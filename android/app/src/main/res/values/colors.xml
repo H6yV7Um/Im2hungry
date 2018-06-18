@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#EBC057</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="post_info_color">#aaaaaa</color>
+    <color name="title_black">#2e2e2e</color>
+    <color name="title_white">#ffffff</color>
+    <color name="line_color">#efefef</color>
+    <color name="label_orange">#30F0B27A</color>
+</resources>

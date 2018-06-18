@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Im2Hungry</string>
+    <string name="user_name_example">我爱学习学习使我快乐</string>
+    <string name="post_time_example">11:43</string>
+    <string name="post_distance_example">103m</string>
+    <string name="post_location_example">腾讯大厦</string>
+    <string name="post_favor_example">111</string>
+    <string name="food_name_example">红烧牛肉面</string>
+    <string name="cal_example">1000cal/100g</string>
+    <string name="description_example">我们的早餐竟然是牛肉面，第三天、第四天、第五天的早餐也是牛肉面……牛肉面真是好好吃啊！ 一碗热气腾腾的牛肉面上桌，我被笼罩在绕萦的热气中。这热气，有着诱人的香味，夹杂着牛肉、青菜、白面和汤料的清香。端上桌来时，翻滚的热气扑鼻而来，闻一闻没有想象中的清香，甚至还会被浓烈的香料味呛到，一向喜欢清淡口味的我甚至感觉有些窒息。</string>
+    <string name="nearby_post">附近动态</string>
+    <string name="description_hint">这一刻的想法...</string>
+    <string name="choose_loc_hint">所在位置</string>
+    <string name="post">发表</string>
+    <string name="take_photo_hint">拍照时，记得讲相机对准食物哦</string>
+    <string name="food_name_hint">食物名称:</string>
+    <string name="cal_hint">卡路里：</string>
+    <string name="set_title">设置</string>
+    <string name="logout_title">退出</string>
+    <string name="introduce_producer">开发者介绍</string>
+    <string name="favor_hint">收藏</string>
+    <string name="personal_hint">个人中心</string>
+    <string name="select_image">选择图片</string>
+    <string name="my_post">我的发布</string>
+    <string name="my_favor">我的收藏</string>
+    <string name="correct_food_name">手动输入</string>
+    <string name="verify_take_pic">请拍摄食物照片哦...</string>
+    <string name="verify_choos_loc">请选择位置哦...</string>
+    <string name="post_detail">动态详情</string>
+</resources>
