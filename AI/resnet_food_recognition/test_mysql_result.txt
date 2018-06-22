@@ -1,0 +1,41 @@
+ number of data: 1000
+   [-] test_insert : 0.8425803184509277 sec
+   [-] test_query : 0.001180887222290039 sec
+   [-] test_update : 0.0009477138519287109 sec
+   [-] test_delete : 0.0006954669952392578 sec
+   [-] test_delete : 0.0023736953735351562 sec
+
+ number of data: 2000
+   [-] test_insert : 1.5928068161010742 sec
+   [-] test_query : 0.0008218288421630859 sec
+   [-] test_update : 0.0006363391876220703 sec
+   [-] test_delete : 0.0006315708160400391 sec
+   [-] test_delete : 0.0043182373046875 sec
+
+ number of data: 4000
+   [-] test_insert : 3.122352361679077 sec
+   [-] test_query : 0.0007169246673583984 sec
+   [-] test_update : 0.0005736351013183594 sec
+   [-] test_delete : 0.0005800724029541016 sec
+   [-] test_delete : 0.007529258728027344 sec
+
+ number of data: 8000
+   [-] test_insert : 6.15626335144043 sec
+   [-] test_query : 0.0007457733154296875 sec
+   [-] test_update : 0.0005879402160644531 sec
+   [-] test_delete : 0.0006353855133056641 sec
+   [-] test_delete : 0.015498876571655273 sec
+
+ number of data: 16000
+   [-] test_insert : 12.128719806671143 sec
+   [-] test_query : 0.0007464885711669922 sec
+   [-] test_update : 0.0006029605865478516 sec
+   [-] test_delete : 0.0005741119384765625 sec
+   [-] test_delete : 0.030086994171142578 sec
+
+ number of data: 32000
+   [-] test_insert : 24.82695984840393 sec
+   [-] test_query : 0.0009696483612060547 sec
+   [-] test_update : 0.0007264614105224609 sec
+   [-] test_delete : 0.00089263916015625 sec
+   [-] test_delete : 0.05701017379760742 sec
